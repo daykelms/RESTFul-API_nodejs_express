@@ -1,0 +1,1 @@
+ secure your APIs beyond using a library like LoopBack, look into JWT and how you can implement these in your API. You can look into this subject by visiting JWT.io, and look into the Node.js section under the Libraries tab.
